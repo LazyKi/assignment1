@@ -1,0 +1,11 @@
+D:\C#\jisuan\bin\Debug\jisuan.exe.config
+D:\C#\jisuan\bin\Debug\jisuan.exe
+D:\C#\jisuan\bin\Debug\jisuan.pdb
+D:\C#\jisuan\obj\Debug\jisuan.csproj.AssemblyReference.cache
+D:\C#\jisuan\obj\Debug\jisuan.csproj.SuggestedBindingRedirects.cache
+D:\C#\jisuan\obj\Debug\jisuan.Properties.Resources.resources
+D:\C#\jisuan\obj\Debug\jisuan.csproj.GenerateResource.cache
+D:\C#\jisuan\obj\Debug\jisuan.csproj.CoreCompileInputs.cache
+D:\C#\jisuan\obj\Debug\jisuan.exe
+D:\C#\jisuan\obj\Debug\jisuan.pdb
+D:\C#\jisuan\obj\Debug\jisuan.Form1.resources
